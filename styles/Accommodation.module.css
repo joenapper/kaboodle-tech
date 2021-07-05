@@ -1,0 +1,25 @@
+.accommodation {
+  position: relative;
+  padding-top: 40px;
+}
+
+.accommodation h3 {
+  font-size: 25px;
+}
+
+.accommodation p {
+  margin: 10px 0;
+}
+
+.accommodation a {
+  display: block;
+}
+
+.image {
+  margin-bottom: 20px;
+}
+
+.back {
+  display: block;
+  margin-top: 40px;
+}
